@@ -1,0 +1,13 @@
+proxies:
+  - name: "block"
+    type: reject
+
+proxy-groups:
+  - name: "Proxy"
+    type: select
+    proxies:
+      - block
+
+# 设置默认策略为 Proxy
+rules:
+  - MATCH,Proxy
