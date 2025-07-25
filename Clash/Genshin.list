@@ -7,6 +7,7 @@ DOMAIN,globaldp-prod-cn01.juequling.com
 DOMAIN,log-upload.mihoyo.com
 DOMAIN,log-upload-os.mihoyo.com
 DOMAIN,log-upload-os.hoyoverse.com
+DOMAIN,cnuspider.yuanshen.com
 DOMAIN,osuspider.yuanshen.com
 DOMAIN,overseauspider.yuanshen.com
 DOMAIN,public-data-api.mihoyo.com
